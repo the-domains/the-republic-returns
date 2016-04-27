@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[The Republic Returns]]></title>
         <description><![CDATA[The Republic Returns]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-republic-returns/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 12:33:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 03:01:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-republic-returns/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Putting Harriet Tubman On The $20 Makes Her The New Face Of America's Debt Slavery]]></title>
+            <description><![CDATA[<article><h1>Putting Harriet Tubman On The $20 Makes Her The New Face Of America's Debt Slavery</h1><p>Independent Journal Opinion is an opinion platform and any opinions or information put forth by contributors are exclusive to them and do not represent Independent Journal. Recently, I spoke about Harriet Tubman and adding her likeness to the $20 dollar bill, and it ignited thoughtful controversy.</p><img src="http://static.journal.ijreview.com/wp-content/uploads/2016/04/Screen-Shot-2015-05-13-at-1.23.28-PM-539x330.png"></article>]]></description>
+            <link>http://opinion.injo.com/2016/04/255639-dont-want-harriet-tubman-american-money/?utm_source=Facebook&amp;utm_medium=Social&amp;utm_content=entry-meta&amp;utm_campaign=Sharing</link>
+            <guid isPermaLink="false">5f10e711-158c-4958-b3a0-27fc6a582980</guid>
+            <pubDate>Wed, 27 Apr 2016 03:00:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook betting on VR porn to boost Oculus demand]]></title>
-            <description><![CDATA[<article><h1>Facebook betting on VR porn to boost Oculus demand</h1><p>As Oculus VR finally ships its virtual-reality headsets to the public, it's heralding the potential of video games and movies - but it's also quietly giving a wink to porn producers. The Facebook-owned startup announced Monday that its new "Rift" headset has more than 30 games available as the first units ship this week, with 100 titles expected by the end of 2016.</p><img src="https://thenypost.files.wordpress.com/2016/03/virtual_reality-comparison_124840709.jpg?quality=100&strip=all&w=1024"></article>]]></description>
+            <description><![CDATA[<article><h1>Facebook betting on VR porn to boost Oculus demand</h1><p>As Oculus VR finally ships its virtual-reality headsets to the public, it's heralding the potential of video games and movies - but it's also quietly giving a wink to porn producers. The Facebook-owned startup announced Monday that its new "Rift" headset has more than 30 games available as the first units ship this week, with 100 titles expected by the end of 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f22a4db851a2cf30b61fb3a83bb727439966ee2.jpg"></article>]]></description>
             <link>http://nypost.com/2016/03/28/facebook-betting-on-vr-porn-to-boost-oculus-demand/</link>
             <guid isPermaLink="false">7153320e-ecf4-4fd2-adf8-c722a4867535</guid>
             <pubDate>Tue, 29 Mar 2016 12:32:49 GMT</pubDate>
