@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Republic Returns]]></title>
         <description><![CDATA[The Republic Returns]]></description>
-        <link>https://thegrid.ai/the-republic-returns/</link>
+        <link>http://returnoftherepublic.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 14:17:26 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/the-republic-returns/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 20:25:40 GMT</lastBuildDate>
+        <atom:link href="http://returnoftherepublic.us/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[China's nuclear message for US]]></title>
+            <description><![CDATA[<article><h1>China's nuclear message for US</h1><p>BEIJING has sent the US a message in the skies above the South China Sea: Anything you can do, we can do too. It's just flown a nuclear-capable bomber over Scarborough Shoal. The United States has conducted several B-52 bomber 'freedom of navigation' flights over the contested waterway in recent months, along with flights by surveillance and patrol aircraft.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/db66327756b1dbf8d90523a143ad3acd/noop?input=http%3A%2F%2Fcdn.newsapi.com.au%2Fimage%2Fv1%2F6c5886d1e9112f5af30e1aa0b44e8744"></article>]]></description>
+            <link>http://www.news.com.au/world/china-rattles-its-nuclear-sabre/news-story/c6c812c041770c172e0c53310b07244f</link>
+            <guid isPermaLink="false">15c46254-e471-493f-a9bc-2155a71be4d7</guid>
+            <pubDate>Thu, 21 Jul 2016 20:25:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sanders BS In Burlington]]></title>
             <description><![CDATA[<article><h1>Sanders BS In Burlington</h1><p>Clinton is the presumptive Democrat party nominee. She'll face Trump in November. On Thursday night from his Burlington, VT home base, Sanders addressed supporters via livestream, maintaining the myth of his "political revolution," pretending his campaign continues.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://m.nydailynews.com/news/crime/flint-mother-sue-water-found-shot-death-article-1.2611186</link>
             <guid isPermaLink="false">3e6d5d3b-5a74-4874-bad0-7c479119aaa7</guid>
             <pubDate>Thu, 28 Apr 2016 12:50:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putting Harriet Tubman On The $20 Makes Her The New Face Of America's Debt Slavery]]></title>
-            <description><![CDATA[<article><h1>Putting Harriet Tubman On The $20 Makes Her The New Face Of America's Debt Slavery</h1><p>Independent Journal Opinion is an opinion platform and any opinions or information put forth by contributors are exclusive to them and do not represent Independent Journal. Recently, I spoke about Harriet Tubman and adding her likeness to the $20 dollar bill, and it ignited thoughtful controversy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22f87a4357c64825c3ad830d91062193844235e0.png"></article>]]></description>
-            <link>http://opinion.injo.com/2016/04/255639-dont-want-harriet-tubman-american-money/?utm_source=Facebook&amp;utm_medium=Social&amp;utm_content=entry-meta&amp;utm_campaign=Sharing</link>
-            <guid isPermaLink="false">5f10e711-158c-4958-b3a0-27fc6a582980</guid>
-            <pubDate>Wed, 27 Apr 2016 03:00:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
